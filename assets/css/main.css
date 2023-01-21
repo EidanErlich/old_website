@@ -3907,3 +3907,41 @@ input, select, textarea {
 			}
 
 		}
+
+/* outro */
+
+#outro {
+	background-attachment: fixed;
+	background-image: url("images/outro.svg");
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+	#outro p {
+		font-size: 1.25em;
+	}
+
+		@media screen and (max-width: 980px) {
+
+			#outro p br {
+				display: none;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#outro p {
+				font-size: 1em;
+			}
+
+		}
+
+	@media screen and (max-width: 1280px) {
+
+		#outro {
+			background-attachment: scroll;
+		}
+
+	}
