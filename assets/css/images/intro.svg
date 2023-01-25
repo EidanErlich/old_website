@@ -25,7 +25,7 @@
 <!--
 <svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 1600 800'><rect fill='#5B0000' width='1600' height='800'/><g fill-opacity='1'><polygon  fill='#52020d' points='1600 160 0 460 0 350 1600 50'/><polygon  fill='#48041b' points='1600 260 0 560 0 450 1600 150'/><polygon  fill='#3f0528' points='1600 360 0 660 0 550 1600 250'/><polygon  fill='#350736' points='1600 460 0 760 0 650 1600 350'/><polygon  fill='#2C0943' points='1600 800 0 800 0 750 1600 450'/></g></svg>
 -->
-
+<!--
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1080" height="560" preserveAspectRatio="none" viewBox="0 0 1080 560">
     <g mask="url(&quot;#SvgjsMask1077&quot;)" fill="none">
         <rect width="1080" height="560" x="0" y="0" fill="url(#SvgjsLinearGradient1078)"></rect>
@@ -81,8 +81,31 @@
 </svg>
 
 
+-->
 
 
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1440" height="736" preserveAspectRatio="none" viewBox="0 0 1440 736">
+    <g mask="url(&quot;#SvgjsMask1046&quot;)" fill="none">
+        <rect width="1440" height="736" x="0" y="0" fill="url(#SvgjsLinearGradient1047)"></rect>
+        <path d="M0 0L138.71 0L0 108.01z" fill="rgba(255, 255, 255, .1)"></path>
+        <path d="M0 108.01L138.71 0L720.11 0L0 335.83z" fill="rgba(255, 255, 255, .075)"></path>
+        <path d="M0 335.83L720.11 0L1062.07 0L0 528.16z" fill="rgba(255, 255, 255, .05)"></path>
+        <path d="M0 528.16L1062.07 0L1274.8899999999999 0L0 598.39z" fill="rgba(255, 255, 255, .025)"></path>
+        <path d="M1440 736L1065.13 736L1440 656.0699999999999z" fill="rgba(0, 0, 0, .1)"></path>
+        <path d="M1440 656.0699999999999L1065.13 736L668.6600000000001 736L1440 507.28z" fill="rgba(0, 0, 0, .075)"></path>
+        <path d="M1440 507.28L668.66 736L519.22 736L1440 367.04999999999995z" fill="rgba(0, 0, 0, .05)"></path>
+        <path d="M1440 367.05L519.22 736L392.3 736L1440 187.82000000000002z" fill="rgba(0, 0, 0, .025)"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1046">
+            <rect width="1440" height="736" fill="#ffffff"></rect>
+        </mask>
+        <linearGradient x1="12.22%" y1="-23.91%" x2="87.78%" y2="123.91%" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1047">
+            <stop stop-color="rgba(52, 6, 82, 1)" offset="0"></stop>
+            <stop stop-color="rgba(43, 3, 68, 1)" offset="1"></stop>
+        </linearGradient>
+    </defs>
+</svg>
 
 
 </svg>
